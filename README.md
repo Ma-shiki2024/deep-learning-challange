@@ -123,7 +123,7 @@ I changed the bin values for application type and classification type based on t
 I increased/decreased the cut off value in the training set and ran multiple iterations of the model 
 I added an additional hidden layer to make it three and used the activation function of "Sigmoid" to increase the accuracy .
 I also used RandomForestClassifier model in addition to the neural network model as RandomForestClassifier are better fit for solving classification problems .
-Increase the EPOCHS for the training regimen from 20 to 100 and trained the model multiple times 
+Increase the EPOCHS for the training regimen from 20 to 50 to 100 and trained the model multiple times 
 
 
 Summary: Overall , Having tweaked parameters of the model , the accuracy of the prediction ranged between 72% to 75 %
